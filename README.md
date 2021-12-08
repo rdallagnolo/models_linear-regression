@@ -1,1 +1,1 @@
-# models_linear-regression
+Examples of linear regression models for machine learnning applications.
